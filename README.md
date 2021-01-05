@@ -1,1 +1,2 @@
 # Speed-Dating-Data-Analysis
+Speed Dating Data Analysis is my Capstone project for my Data Science minor. This project aims to explore how race and gender effect in speed dating environment in the US. I was planing to adopt machine learning strateges to look for patterns. However, this dataset does not include a significant amount of data entries. Thus, I started to use standard statistics and found statistically significant result. In the file, I included my presentation slide and my Jupyter notebook. If you have any question and suggestion, please email: ylu204@fordham.edu
